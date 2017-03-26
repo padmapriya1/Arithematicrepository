@@ -13,6 +13,8 @@ public class Arithmatic {
 				System.out.println( "division ="+(a/b) );//5
 				System.out.println( "modulus is="+(a%b) );//0
 				System.out.println("htis is new");
+				System.out.println("this is second is new");
+				
 				
 				int c= a++;//post increment 
 				System.out.println(c);//78
